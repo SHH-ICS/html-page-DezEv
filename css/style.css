@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-p {
-  color: red;
-  text-align: center;
-} 
-</style>
+    <title>Font Change Example</title>
+    <style>
+        p {
+            font-family: 'Oswald', sans-serif;
+        }
+    </style>
 </head>
+<body>
+    <p>This is a paragraph with the Oswald font.</p>
+</body>
 </html>
