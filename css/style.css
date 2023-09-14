@@ -3,6 +3,7 @@
 <head>
     <title>Font Change Example</title>
     <style>
+        /* Define a CSS rule to apply the Oswald font to <p> elements */
         p {
             font-family: 'Oswald', sans-serif;
         }
